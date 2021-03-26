@@ -30,3 +30,9 @@ OrderingStrategy.java
  OrderingStrategy
 SmartStrategy.java
  SmartStrategy
+AlienClient.java
+ AlienClient
+FerengiClient.java
+ FerengiClient
+RomulanClient.java
+ RomulanClient
