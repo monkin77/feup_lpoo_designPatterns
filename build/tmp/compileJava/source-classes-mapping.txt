@@ -1,14 +1,24 @@
-StringCaseChanger.java
- StringCaseChanger
-StringInverter.java
- StringInverter
-StringTransformer.java
- StringTransformer
 StringDrink.java
  StringDrink
-StringReplacer.java
- StringReplacer
-StringRecipe.java
- StringRecipe
+StringCaseChanger.java
+ StringCaseChanger
 StringTransformerGroup.java
  StringTransformerGroup
+StringReplacer.java
+ StringReplacer
+StringInverter.java
+ StringInverter
+StringRecipe.java
+ StringRecipe
+StringTransformer.java
+ StringTransformer
+Bar.java
+ Bar
+BarObserver.java
+ BarObserver
+HumanClient.java
+ HumanClient
+Client.java
+ Client
+StringBar.java
+ StringBar

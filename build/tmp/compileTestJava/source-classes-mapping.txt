@@ -10,3 +10,7 @@ StringRecipeTest.java
  StringRecipeTest
 StringTransformerGroupTest.java
  StringTransformerGroupTest
+StringBarTest.java
+ StringBarTest
+HumanClientTest.java
+ HumanClientTest

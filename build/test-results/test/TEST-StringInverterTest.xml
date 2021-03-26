@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="StringInverterTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-26T15:29:26" hostname="MSI" time="0.006">
-  <properties/>
-  <testcase name="stringInverter()" classname="StringInverterTest" time="0.006"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
