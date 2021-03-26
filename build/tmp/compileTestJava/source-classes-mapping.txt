@@ -8,3 +8,5 @@ StringReplacerTest.java
  StringReplacerTest
 StringRecipeTest.java
  StringRecipeTest
+StringTransformerGroupTest.java
+ StringTransformerGroupTest

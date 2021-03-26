@@ -10,3 +10,5 @@ StringReplacer.java
  StringReplacer
 StringRecipe.java
  StringRecipe
+StringTransformerGroup.java
+ StringTransformerGroup
